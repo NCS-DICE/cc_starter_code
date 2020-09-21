@@ -1,3 +1,7 @@
+# As you work through this file, make sure that you are on the correct
+# tab level. I've included all of your TODO's inside of functions for tests.
+# This means everything needs to be tabbed over 1 level, at least. 
+
 def sums():
    
    #TODO: Initialize a variable called first_sum and store the sum of 
